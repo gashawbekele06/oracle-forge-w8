@@ -1,0 +1,4434 @@
+[
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 1,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 2,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 3,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 4,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 5,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 6,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 7,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 8,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 9,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 10,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 11,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 12,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 13,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 14,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 15,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 16,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 17,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 18,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 19,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 20,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 21,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 22,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 23,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 24,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 25,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 26,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 27,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 28,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 29,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 30,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 31,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 32,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 33,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 34,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 35,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 36,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 37,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 38,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 39,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 40,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 41,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 42,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 43,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 44,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 45,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 46,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 47,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 48,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 49,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query1",
+    "run_number": 50,
+    "agent_answer": 3.547008547008547
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 1,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 2,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 3,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 4,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 5,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 6,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 7,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 8,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 9,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 10,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 11,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 12,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 13,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 14,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 15,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 16,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 17,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 18,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 19,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 20,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 21,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 22,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 23,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 24,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 25,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 26,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 27,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 28,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 29,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 30,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 31,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 32,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 33,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 34,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 35,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 36,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 37,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 38,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 39,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 40,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 41,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 42,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 43,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 44,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 45,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 46,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 47,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 48,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 49,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query2",
+    "run_number": 50,
+    "agent_answer": [
+      "PA",
+      3.699395770392749
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 1,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 2,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 3,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 4,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 5,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 6,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 7,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 8,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 9,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 10,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 11,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 12,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 13,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 14,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 15,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 16,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 17,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 18,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 19,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 20,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 21,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 22,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 23,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 24,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 25,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 26,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 27,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 28,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 29,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 30,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 31,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 32,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 33,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 34,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 35,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 36,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 37,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 38,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 39,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 40,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 41,
+    "agent_answer": 100
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 42,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 43,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 44,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 45,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 46,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 47,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 48,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 49,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query3",
+    "run_number": 50,
+    "agent_answer": 35
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 1,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 2,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 3,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 4,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 5,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 6,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 7,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 8,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 9,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 10,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 11,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 12,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 13,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 14,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 15,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 16,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 17,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 18,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 19,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 20,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 21,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 22,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 23,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 24,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 25,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 26,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 27,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 28,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 29,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 30,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 31,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 32,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 33,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 34,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 35,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 36,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 37,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 38,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 39,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 40,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 41,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 42,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 43,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 44,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 45,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 46,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 47,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 48,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 49,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query4",
+    "run_number": 50,
+    "agent_answer": [
+      "Restaurant",
+      3.6407263294422827
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 1,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 2,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 3,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 4,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 5,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 6,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 7,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 8,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 9,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 10,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 11,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 12,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 13,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 14,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 15,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 16,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 17,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 18,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 19,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 20,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 21,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 22,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 23,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 24,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 25,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 26,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 27,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 28,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 29,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 30,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 31,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 32,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 33,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 34,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 35,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 36,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 37,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 38,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 39,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 40,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 41,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 42,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 43,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 44,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 45,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 46,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 47,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 48,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 49,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query5",
+    "run_number": 50,
+    "agent_answer": [
+      "PA",
+      3.4839857651245554
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 1,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 2,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 3,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 4,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 5,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 6,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 7,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 8,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 9,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 10,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 11,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 12,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 13,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 14,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 15,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 16,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 17,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 18,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 19,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 20,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 0,
+        "negative_sentiment_count": 0,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": []
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 21,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 22,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 23,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 0,
+        "negative_sentiment_count": 0,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": []
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 24,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 25,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 26,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 27,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 28,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 29,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 30,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 31,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 32,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 33,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 34,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 35,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 36,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 37,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 38,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 39,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 40,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 41,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 42,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 43,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 44,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 0,
+        "negative_sentiment_count": 0,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": []
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 45,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 46,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 47,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 48,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 49,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query6",
+    "run_number": 50,
+    "agent_answer": 3.515
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 1,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 2,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 3,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 4,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 5,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 6,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 7,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 8,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 9,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 10,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 11,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 12,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 13,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 14,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 15,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 16,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 17,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 18,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 19,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 20,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 21,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 22,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 23,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 24,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 25,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 26,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 27,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 28,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 29,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 30,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 31,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 32,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 33,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 34,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 35,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 36,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 37,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 38,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 39,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 40,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 41,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 42,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 43,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 44,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 45,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 46,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 47,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 48,
+    "agent_answer": {
+      "metrics": {
+        "row_count": 100,
+        "negative_sentiment_count": 21,
+        "high_value_with_tickets": 0,
+        "total_sales": 0.0
+      },
+      "records": [
+        {
+          "review_id": "reviewid_135",
+          "user_id": "userid_548",
+          "business_ref": "businessref_34",
+          "rating": 2,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Sure, it's cheap, but there isn't much to see. I think you'd have to have a big interest in the topic to find it exciting, and kids would be bored. I think it only lasted maybe 10-15 minutes. Our tour person was somewhat knowledgeable and seemed into it, but he didn't give us much time to read the information on each level. I had to take photos of the plaques to read later, and half of them need replacing, as they are so sun-bleached they're virtually unreadable (tour guide said they're being replaced soon and that the other half were already replaced). I really thought it needed to be higher up to give a good view. The Lewis and Clark State Historic Site just down the road was more interesting and free. If you live around here like I do and have nothing better to do, you might want to give it a go if the topic interests you, but if you're a tourist, this is not something you should waste your time on.",
+          "date": "August 01, 2016 at 03:44 AM"
+        },
+        {
+          "review_id": "reviewid_1067",
+          "user_id": "userid_213",
+          "business_ref": "businessref_89",
+          "rating": 5,
+          "useful": 2,
+          "funny": 0,
+          "cool": 0,
+          "text": "Very good service but a little pricey for the services your receive. Clean and sanitary too",
+          "date": "June 14, 2021 at 11:39 AM"
+        },
+        {
+          "review_id": "reviewid_871",
+          "user_id": "userid_616",
+          "business_ref": "businessref_82",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "My friend and I enjoyed a fantastic meal at Miles Table and I can't wait to return! Given that it was half-price-burger-day, I felt the need to give the falafel burger a shot. It was delicious! I'm not always a falafel fan, but this \"burger\" was awesome. The brioche bun was the perfect consistency and the portion of fries was plentiful. My friend enjoyed the cobb salad (though she requested balsamic dressing instead of buttermilk and she received buttermilk). The restaurant is quaint and has ample seating. While you order at the counter, our \"server\" (I believe her name was Sarah) was fantastic and made sure we had everything we needed. Overall, this is a great spot and I will be back soon...I may have to make it a weekly lunch staple!",
+          "date": "29 May 2013, 23:01"
+        },
+        {
+          "review_id": "reviewid_314",
+          "user_id": "userid_1903",
+          "business_ref": "businessref_66",
+          "rating": 2,
+          "useful": 1,
+          "funny": 2,
+          "cool": 1,
+          "text": "This location is not one of my favorites people here get pretty rude sometimes no one looks happy it's hit or miss with the food sometimes it's awesome other times terrible I always get honey walnut shrimp for an extra 1.25 which is retarded and Beijing beef I enjoy the rice n the noodles but idk do if u dare",
+          "date": "21 May 2016, 18:48"
+        },
+        {
+          "review_id": "reviewid_487",
+          "user_id": null,
+          "business_ref": "businessref_95",
+          "rating": 1,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Terrible service. I was charged twice for online order and they refused to refund me. Numerous times this has happened",
+          "date": "November 01, 2021 at 05:11 PM"
+        },
+        {
+          "review_id": "reviewid_1031",
+          "user_id": "userid_206",
+          "business_ref": "businessref_24",
+          "rating": 4,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "A cornucupia of flavors and toppings. The area inside is kept clean and tidy. I had a vanilla with oreo. That was heavenly. The space can get crowded in there, so just be aware of that. It's all self-serve, and they let you have samples. Good business.",
+          "date": "2013-07-08 21:47:00"
+        },
+        {
+          "review_id": "reviewid_441",
+          "user_id": "userid_380",
+          "business_ref": "businessref_40",
+          "rating": 4,
+          "useful": 0,
+          "funny": 1,
+          "cool": 0,
+          "text": "You can go to Artesano and enjoy the massive metal sculptures made exclusively for this gallery by a single artist in South America, and you can enjoy the large hanging art as well.  Rehabbers will appreciate the meticulous dedo of this old corner on Cresson.  But, for me whose foray into the purchase of original art extends to 3 encounters with minor minor artists, the attraction to Artesano is as a venue for small weddings and all sorts of parties for up to 120 guests.  The two level affair is beautiful, melding old original elements, weathered redone beams and brick with modern touches for wonderful result.  The caterer wont be that happy as they will work out of cramped quarters on the lower level, but its not that bad.   I should say all types of parties but Bar/Bat Mitzvahs as the hands off policy is super strict even though the metal sculptures will do more harm to a thirteen year old than they can do to it, but the wall hangings and fit and finish are not that durable.",
+          "date": "March 02, 2009 at 09:43 PM"
+        },
+        {
+          "review_id": "reviewid_40",
+          "user_id": null,
+          "business_ref": "businessref_47",
+          "rating": 5,
+          "useful": 1,
+          "funny": 0,
+          "cool": 1,
+          "text": "Went today for my birthday!First blowout and my hair looks hot! Makeup done as well and it also is fabulous! I didn't have to wait at all got right is and was done at the appropriate time! I will be back ...even for just a scalp massage.",
+          "date": "March 16, 2014 at 12:40 AM"
+        },
+        {
+          "review_id": "reviewid_1807",
+          "user_id": "userid_1546",
+          "business_ref": "businessref_16",
+          "rating": 3,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Tuesday for $2 pint night is the night to come to the fox. Everything on tap counts if they have it, but they do tend to run out of some of the good stuff. Food is ok... Got the steak tacos the other night, don't expect many dressings like sour cream, guac, or a lot of flavor. They also don't give you much  salsa, but it's edible.",
+          "date": "September 18, 2014 at 05:50 PM"
+        },
+        {
+          "review_id": "reviewid_1741",
+          "user_id": "userid_1348",
+          "business_ref": "businessref_96",
+          "rating": 5,
+          "useful": 0,
+          "funny": 0,
+          "cool": 0,
+          "text": "Pretty sure this was the best meal I've ever had in my life. And that's saying something b/c I've traveled a lot, and I take my food seriously! I'm not a big seafood fan, to be honest nothing on the menu sounded super great. So I went for it and dove straight in to the 7 course chef's tasting menu. Best decision I've ever made. Highly recommend this place for a splurge.",
+          "date": "17 Apr 2017, 14:04"
+        }
+      ]
+    }
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 49,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  },
+  {
+    "dataset_name": "yelp",
+    "query_id": "query7",
+    "run_number": 50,
+    "agent_answer": [
+      "Restaurants",
+      "Food",
+      "Shopping",
+      "American (New)",
+      "Grocery"
+    ]
+  }
+]
