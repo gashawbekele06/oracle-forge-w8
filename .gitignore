@@ -11,7 +11,9 @@ venv/
 .venv/
 
 # ── Project-specific large / generated dirs ────────────────
+# DataAgentBench must never be pushed — it contains large binary datasets
 DataAgentBench/
+/DataAgentBench/
 gemini/
 benchmark/spider/
 structure.py
