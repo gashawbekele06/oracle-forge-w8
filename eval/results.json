@@ -1,7 +1,7 @@
 {
   "dataset": "DataAgentBench yelp",
   "dataset_path": "C:\\Users\\gasha\\OneDrive\\Desktop\\TRP1\\Week 8&9\\oracle-forge-w8\\DataAgentBench\\query_yelp",
-  "evaluated_at_utc": "2026-04-18T18:02:23.688641+00:00",
+  "evaluated_at_utc": "2026-04-18T18:13:44.489893+00:00",
   "total_queries": 7,
   "trials_per_query": 1,
   "correct_first_answers": 0,
@@ -284,7 +284,7 @@
                 }
               ],
               "result_summary": "list(len=100)",
-              "duration_ms": 37,
+              "duration_ms": 32,
               "success": true,
               "failure_type": null
             }
@@ -327,17 +327,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3111,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 3,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -377,7 +367,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
+              "duration_ms": 1,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -387,7 +377,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 4,
+              "duration_ms": 2,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -397,7 +387,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 6,
+              "duration_ms": 2,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -407,15 +397,25 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 4,
+              "duration_ms": 2,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 2,
               "success": false,
               "failure_type": "unknown_error"
             }
           ],
           "token_usage": {
             "prompt_tokens": 4047,
-            "completion_tokens": 912,
-            "total_tokens": 4959,
+            "completion_tokens": 911,
+            "total_tokens": 4958,
             "max_prompt_tokens": 3500,
             "max_tool_loops": 12
           },
@@ -460,37 +460,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
+              "duration_ms": 3144,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -520,7 +490,37 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 4,
+              "duration_ms": 2,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 1,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 2,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 1,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -540,15 +540,15 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 4,
+              "duration_ms": 3,
               "success": false,
               "failure_type": "unknown_error"
             }
           ],
           "token_usage": {
             "prompt_tokens": 4045,
-            "completion_tokens": 911,
-            "total_tokens": 4956,
+            "completion_tokens": 912,
+            "total_tokens": 4957,
             "max_prompt_tokens": 3500,
             "max_tool_loops": 12
           },
@@ -603,7 +603,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
+              "duration_ms": 2,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -726,7 +726,27 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3131,
+              "duration_ms": 3107,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 5,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 5,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -746,7 +766,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
+              "duration_ms": 4,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -756,7 +776,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 5,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -766,7 +786,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 6,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -776,7 +796,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 4,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -786,27 +806,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 4,
               "success": false,
               "failure_type": "unknown_error"
             }
@@ -859,6 +859,26 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 11,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 4,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
               "duration_ms": 5,
               "success": false,
               "failure_type": "unknown_error"
@@ -869,7 +889,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
+              "duration_ms": 6,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -879,7 +899,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
+              "duration_ms": 5,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -889,7 +909,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 4,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -899,7 +919,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 8,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -909,7 +929,7 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 6,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -919,35 +939,15 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 2,
+              "duration_ms": 4,
               "success": false,
               "failure_type": "unknown_error"
             }
           ],
           "token_usage": {
             "prompt_tokens": 4064,
-            "completion_tokens": 911,
-            "total_tokens": 4975,
+            "completion_tokens": 912,
+            "total_tokens": 4976,
             "max_prompt_tokens": 3500,
             "max_tool_loops": 12
           },
@@ -992,6 +992,16 @@
               "dialect_handling": "sql",
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 5,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
               "duration_ms": 3,
               "success": false,
               "failure_type": "unknown_error"
@@ -1003,6 +1013,16 @@
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
               "duration_ms": 3,
+              "success": false,
+              "failure_type": "unknown_error"
+            },
+            {
+              "tool_used": "local_duckdb_sql_query",
+              "selection_reason": "DuckDB selected for analytical aggregate processing.",
+              "dialect_handling": "sql",
+              "raw_query": "SELECT 1 AS health_check",
+              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
+              "duration_ms": 4,
               "success": false,
               "failure_type": "unknown_error"
             },
@@ -1013,26 +1033,6 @@
               "raw_query": "SELECT 1 AS health_check",
               "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
               "duration_ms": 2,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
-              "success": false,
-              "failure_type": "unknown_error"
-            },
-            {
-              "tool_used": "local_duckdb_sql_query",
-              "selection_reason": "DuckDB selected for analytical aggregate processing.",
-              "dialect_handling": "sql",
-              "raw_query": "SELECT 1 AS health_check",
-              "result_summary": "IO Error: Cannot open file \"//workspace/DataAgentBench/query_yelp/query_dataset/yelp_user.db\": The network path was not found.",
-              "duration_ms": 3,
               "success": false,
               "failure_type": "unknown_error"
             },
