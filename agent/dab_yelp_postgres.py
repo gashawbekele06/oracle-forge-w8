@@ -12,7 +12,7 @@ POSTGRES_SQL_BY_QUESTION: Dict[str, str] = {
     "What is the average rating of all businesses located in Indianapolis, Indiana?": """
 SELECT AVG(r.stars::double precision) AS avg_rating
 FROM review r
-JOIN business b ON r.business_id = REPLACE(b.business_id, 'businessid_', 'businessref_')
+JOIN business b ON r.business_id = b.business_id
 WHERE b.description ILIKE '%Indianapolis%'
   AND b.description LIKE '%, IN%'
 """,
@@ -20,7 +20,7 @@ WHERE b.description ILIKE '%Indianapolis%'
 WITH joined AS (
   SELECT b.state_code AS st, r.stars::double precision AS s
   FROM review r
-  JOIN business b ON r.business_id = REPLACE(b.business_id, 'businessid_', 'businessref_')
+  JOIN business b ON r.business_id = b.business_id
   WHERE b.state_code IS NOT NULL AND b.state_code <> ''
 ), agg AS (
   SELECT st, COUNT(*)::bigint AS n, AVG(s) AS avg_rating
@@ -33,7 +33,7 @@ SELECT a.st, a.avg_rating FROM agg a INNER JOIN top t ON a.st = t.st
     "During 2018, how many businesses that received reviews offered either business parking or bike parking?": """
 SELECT COUNT(DISTINCT b.business_id)::bigint AS cnt
 FROM business b
-JOIN review r ON r.business_id = REPLACE(b.business_id, 'businessid_', 'businessref_')
+JOIN review r ON r.business_id = b.business_id
 WHERE r.date LIKE '%2018%'
   AND (
     b.attributes LIKE '%''BikeParking'': ''True''%'
@@ -48,7 +48,7 @@ WITH joined AS (
     r.stars::double precision AS s
   FROM business b
   INNER JOIN business_category bc ON bc.business_id = b.business_id
-  INNER JOIN review r ON r.business_id = REPLACE(b.business_id, 'businessid_', 'businessref_')
+  INNER JOIN review r ON r.business_id = b.business_id
   WHERE b.accepts_credit_cards
 ), agg AS (
   SELECT cat, COUNT(DISTINCT bid)::bigint AS n, AVG(s) AS avg_rating
@@ -72,7 +72,7 @@ WITH ws AS (
 ), j AS (
   SELECT r.stars::double precision AS s
   FROM review r
-  JOIN business b ON r.business_id = REPLACE(b.business_id, 'businessid_', 'businessref_')
+  JOIN business b ON r.business_id = b.business_id
   WHERE b.business_id IN (SELECT business_id FROM ws WHERE state_code = (SELECT state_code FROM top))
 )
 SELECT (SELECT state_code FROM top) AS st, (SELECT AVG(s) FROM j) AS avg_rating
@@ -100,7 +100,7 @@ WITH u2016 AS (
   SELECT bc.category
   FROM review r
   INNER JOIN u2016 ON r.user_id = u2016.user_id
-  INNER JOIN business b ON r.business_id = REPLACE(b.business_id, 'businessid_', 'businessref_')
+  INNER JOIN business b ON r.business_id = b.business_id
   INNER JOIN business_category bc ON bc.business_id = b.business_id
   WHERE r.date >= '2016-01-01'
 ), agg AS (

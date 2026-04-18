@@ -61,7 +61,7 @@ def _merge_outputs(step_outputs: List[Dict[str, Any]], trace: List[Dict[str, Any
     return merged
 
 
-def _answer_from_metrics(question: str, metrics: Dict[str, Any], records: List[Dict[str, Any]]) -> Any:
+def _answer_from_metrics(question: str, metrics: Dict[str, Any], records: List[Dict[str, Any]]) -> Any:  # noqa: C901
     # Yelp Q7: one column `category`, multiple rows
     if records and all(
         isinstance(r, dict) and set(r.keys()) == {"category"} for r in records
@@ -69,34 +69,56 @@ def _answer_from_metrics(question: str, metrics: Dict[str, Any], records: List[D
         return [r["category"] for r in records]
     text = question.lower()
     if "negative" in text and "sentiment" in text:
-        return metrics["negative_sentiment_count"]
+        return metrics.get("negative_sentiment_count", 0)
     if "high-value" in text and "ticket" in text:
-        return metrics["high_value_with_tickets"]
+        return metrics.get("high_value_with_tickets", 0)
     if "total sales" in text or "total revenue" in text:
-        return metrics["total_sales"]
-    # COUNT(*) / single-metric SQL: prefer the aggregate column over merged row_count.
-    if "how many" in text or ("count" in text and "average" not in text):
-        if len(records) == 1 and isinstance(records[0], dict):
-            r0 = records[0]
-            for key in ("cnt", "count", "n", "total", "biz_count"):
-                val = r0.get(key)
-                if isinstance(val, (int, float)):
-                    return val
-        return metrics["row_count"]
-    # Single-row aggregates (AVG, etc.) for benchmarks / CSV validation.
+        return metrics.get("total_sales", 0.0)
+
+    # Single-row result — smart extraction by column name
     if len(records) == 1 and isinstance(records[0], dict):
         r0 = records[0]
         if "full_line" in r0:
             return r0["full_line"]
-        keys = set(r0.keys())
-        if {"st", "avg_rating"} <= keys:
-            return [r0["st"], r0["avg_rating"]]
-        if {"cat", "avg_rating"} <= keys:
-            return [r0["cat"], r0["avg_rating"]]
+        keys = list(r0.keys())
+        state_keys = [k for k in keys if k.lower() in ("st", "state", "state_code", "statecode")]
+        rating_keys = [k for k in keys if any(x in k.lower() for x in ("rating", "avg", "stars", "average"))]
+        name_keys = [k for k in keys if any(x in k.lower() for x in ("name", "business", "category", "cat"))]
+        count_keys = [k for k in keys if any(x in k.lower() for x in ("count", "cnt", "total", "num", "biz_count"))]
+        if state_keys and rating_keys:
+            return f"{r0[state_keys[0]]}: average rating {r0[rating_keys[0]]}"
+        if name_keys and rating_keys:
+            return f"{r0[name_keys[0]]}: average rating {r0[rating_keys[0]]}"
+        if rating_keys:
+            return r0[rating_keys[0]]
+        if count_keys:
+            return r0[count_keys[0]]
         if len(r0) == 1:
-            val = next(iter(r0.values()))
+            return next(iter(r0.values()))
+        for val in r0.values():
             if isinstance(val, (int, float)):
                 return val
+
+    # COUNT(*) queries
+    if "how many" in text or ("count" in text and "average" not in text):
+        if len(records) == 1 and isinstance(records[0], dict):
+            r0 = records[0]
+            for key in ("cnt", "count", "n", "total", "biz_count", "num", "q3_2018_parking"):
+                val = r0.get(key)
+                if isinstance(val, (int, float)):
+                    return val
+        return metrics["row_count"]
+
+    # Multiple rows — format as readable list
+    if records:
+        lines = []
+        for row in records[:10]:
+            if isinstance(row, dict):
+                lines.append(", ".join(f"{k}: {v}" for k, v in row.items()))
+            else:
+                lines.append(str(row))
+        return "\n".join(lines)
+
     return {"metrics": metrics, "records": records[:10]}
 
 

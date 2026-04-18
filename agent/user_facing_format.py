@@ -17,12 +17,28 @@ def format_answer_plain(result: dict) -> str:
         return "No answer returned."
 
     if isinstance(ans, dict) and "metrics" in ans and "records" in ans:
-        n = len(ans.get("records") or [])
-        return (
-            "I couldn't boil this down to a short answer — the last step returned sample "
-            f"rows ({n} shown) instead of a single summary. "
-            "Try narrowing the question, or restrict databases to PostgreSQL for Yelp analytics."
-        )
+        records = ans.get("records") or []
+        metrics = ans.get("metrics") or {}
+        if metrics and len(metrics) == 1:
+            return str(next(iter(metrics.values())))
+        if metrics:
+            return "\n".join(f"{k}: {v}" for k, v in metrics.items())
+        if len(records) == 1:
+            row = records[0]
+            if isinstance(row, dict):
+                vals = list(row.values())
+                if len(vals) == 1:
+                    return str(vals[0])
+                return ", ".join(str(v) for v in vals)
+        if records:
+            lines = []
+            for row in records[:10]:
+                if isinstance(row, dict):
+                    lines.append(", ".join(f"{k}: {v}" for k, v in row.items()))
+                else:
+                    lines.append(str(row))
+            return "\n".join(lines)
+        return "(empty result)"
 
     if isinstance(ans, list):
         if not ans:
